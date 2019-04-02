@@ -14,8 +14,8 @@ obviously be optimized with the use of AI and be shortened, leading to higher su
 cancer patients.
 
 ### Further information
-- [Administrator manual]()
-- [Design report]()
+- [Administrator manual](https://github.com/ivaroliRU/AI-FinalProject/blob/master/docs/admin_manual.md)
+- [Design report](https://github.com/ivaroliRU/AI-FinalProject/blob/master/docs/design_report.md)
 
 ### Developers
 - Ívar Óli Sigurðsson
